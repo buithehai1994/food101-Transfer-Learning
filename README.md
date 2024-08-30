@@ -1,10 +1,7 @@
 # Assignment 2: Computer Vision - Deep Learning
 
-**Course:** 94691 Deep Learning - Autumn 2024  
-**University of Technology Sydney**
-
 ## Overview
-This repository contains the code and report for Assignment 2 of the Deep Learning course. The assignment focuses on Transfer Learning using Convolutional Neural Networks (CNNs) applied to the Food101 dataset. The task is divided into two main parts:
+This repository contains the code and report for the Deep Learning course. The assignment focuses on Transfer Learning using Convolutional Neural Networks (CNNs) applied to the Food101 dataset. The task is divided into two main parts:
 
 - **Part A: Transfer Learning and Model Comparison**
 - **Part B: Fine-Tuning the Best Model**
