@@ -66,5 +66,6 @@ The task content is from the **Master of Data Science and Innovation** course of
    according to the Foodspotting terms of use [2].
 
 [1] http://www.foodspotting.com/
+
 [2] http://www.foodspotting.com/terms/
 
