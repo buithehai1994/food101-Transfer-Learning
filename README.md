@@ -1,5 +1,5 @@
 # Computer Vision - Deep Learning
-
+![Food 101](https://github.com/buithehai1994/food101-Transfer-Learning/blob/main/sample.JPG)
 ## Overview
 This repository contains the code and report for the Deep Learning course. The assignment focuses on Transfer Learning using Convolutional Neural Networks (CNNs) applied to the Food101 dataset. The task is divided into two main parts:
 
