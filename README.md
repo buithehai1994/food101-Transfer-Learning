@@ -57,7 +57,7 @@ Fine-tune the best performing model from Part A by unfreezing at least two diffe
 
 ## Acknowledgments
 
-The task content is from the **Master of Data Science and Innovation** course of University of Technology Sydney, and it is the asset of TD School)
+The task content is from the Master of Data Science and Innovation course at the University of Technology Sydney and is an asset of TD School
 
 ## License Agreements of the Dataset:
  - The Food-101 data set consists of images from Foodspotting [1] which are not
