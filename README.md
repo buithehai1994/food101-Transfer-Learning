@@ -1,4 +1,4 @@
-# Assignment 2: Computer Vision - Deep Learning
+# Computer Vision - Deep Learning
 
 ## Overview
 This repository contains the code and report for the Deep Learning course. The assignment focuses on Transfer Learning using Convolutional Neural Networks (CNNs) applied to the Food101 dataset. The task is divided into two main parts:
@@ -54,3 +54,8 @@ Fine-tune the best performing model from Part A by unfreezing at least two diffe
   - Detailed steps and strategies used for fine-tuning the selected model.
 - **Recommendations**
   - Discussion on remaining issues, limitations, and potential future improvements.
+  - 
+## Acknowledgments
+
+This project is based on the dataset consolidated from census data in the USA and its documentation provided for educational purposes.
+(Dataset is from the **Master of Data Science and Innovation** course of University of Technology Sydney, and it is the asset of TD School)
