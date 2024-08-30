@@ -54,7 +54,7 @@ Fine-tune the best performing model from Part A by unfreezing at least two diffe
   - Detailed steps and strategies used for fine-tuning the selected model.
 - **Recommendations**
   - Discussion on remaining issues, limitations, and potential future improvements.
-  - 
+
 ## Acknowledgments
 
 This project is based on the dataset consolidated from census data in the USA and its documentation provided for educational purposes.
