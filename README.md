@@ -38,9 +38,9 @@ Fine-tune the best performing model from Part A by unfreezing at least two diffe
 - Analysis of the fine-tuning process and its impact on model performance.
 
 ## Files Included
-- **Part A Notebook:** `Part_A_Transfer_Learning.ipynb`
-- **Part B Notebook:** `Part_B_Fine_Tuning.ipynb`
-- **Report:** `Assignment2_Report.pdf`
+- **Part A Notebook:** `googlenet-model.ipynb`, `mobilenet-model.ipynb`,`nasnet-model.ipynb`
+- **Part B Notebook(Fine tunning model):** `mobilenet-model-finetunning.ipynb`
+- **Report:** `Report.docx`
 
 ## Report Contents
 - **Presentation of the Dataset**
