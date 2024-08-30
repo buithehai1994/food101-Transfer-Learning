@@ -9,7 +9,7 @@ This repository contains the code and report for the Deep Learning course. The a
 ## Dataset
 - **Name:** Food101
 - **Description:** The dataset contains 101,000 images across 101 food categories. For each class, there are 750 training images and 250 test images, all resized to a maximum side length of 512 pixels.
-- **Download Link:** [Food101 Dataset](https://link-to-food101-dataset)
+- **Download Link:** [Food101 Dataset](http://data.vision.ee.ethz.ch/cvl/food-101.tar.gz)
 
 ## Part A: Transfer Learning
 ### Objective
