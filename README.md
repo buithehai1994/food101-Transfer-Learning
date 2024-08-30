@@ -58,3 +58,13 @@ Fine-tune the best performing model from Part A by unfreezing at least two diffe
 ## Acknowledgments
 
 The task content is from the **Master of Data Science and Innovation** course of University of Technology Sydney, and it is the asset of TD School)
+
+## License Agreements of the Dataset:
+ - The Food-101 data set consists of images from Foodspotting [1] which are not
+   property of the Federal Institute of Technology Zurich (ETHZ). Any use beyond
+   scientific fair use must be negociated with the respective picture owners
+   according to the Foodspotting terms of use [2].
+
+[1] http://www.foodspotting.com/
+[2] http://www.foodspotting.com/terms/
+
